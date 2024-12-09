@@ -2,7 +2,7 @@
 
 
 # Hisse Senedi Grafiği Uygulaması
-Bu Python uygulaması, kullanıcının belirlediği hisse senedi sembolü ve tarih aralığına göre, finansal verileri çeker ve görselleştirir. Ayrıca, hisse senedi verilerini Excel formatında indirme imkânı sunar. Uygulama, Streamlit ile geliştirilmiştir. Kullanmak için --> [![HisseSenediUyg](https://img.shields.io/badge/HuggingFace-9C30FF?style=for-the-badge&logo=huggingface&logoColor=white)(https://huggingface.co/spaces/elfgk/Hisse_Senedi_Grafikleri?logs=container)
+Bu Python uygulaması, kullanıcının belirlediği hisse senedi sembolü ve tarih aralığına göre, finansal verileri çeker ve görselleştirir. Ayrıca, hisse senedi verilerini Excel formatında indirme imkânı sunar. Uygulama, Streamlit ile geliştirilmiştir. Kullanmak için --> [![Hugging Face](https://img.shields.io/badge/HuggingFace-9C30FF?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/elfgk/Hisse_Senedi_Grafikleri?logs=container)
 
 ### Gereksinimler
 Bu projeyi çalıştırabilmek için aşağıdaki kütüphanelerin kurulu olması gerekmektedir:
