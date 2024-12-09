@@ -16,7 +16,7 @@ Bu projeyi çalıştırabilmek için aşağıdaki kütüphanelerin kurulu olmas�
 ### Kurulum ve Çalıştırma
 Bu projeyi bilgisayarınıza klonlayın veya indirin.
 CSV dosyanızda sembol ve sembol_kodu gibi sütunlar bulunmalıdır. Bu dosya, hisse senetlerinin sembollerini ve ilgili sembol kodlarını içermelidir. name.csv dosyasını doğru dizine yerleştirin.
-
+-
 
 ### Özellikler
 Hisse Senedi Seçimi: Kullanıcı, bir açılır menü (selectbox) aracılığıyla hisse senedi sembolünü seçebilir.
@@ -24,7 +24,7 @@ Tarih Aralığı Seçimi: Kullanıcı, başlangıç ve bitiş tarihlerini belirl
 Hisse Senedi Verileri Görüntüleme: Uygulama, seçilen hisse senedi için verileri (açılış, kapanış, en yüksek, en düşük, işlem hacmi) tablo şeklinde gösterir.
 Grafik Çizimi: Kapanış fiyatı verisi ile bir grafik çizilir.
 Excel İndir: Kullanıcı, hisse senedi verilerini Excel dosyası olarak indirebilir.
-
+-
 
 <h1 align="center"> 𓍢ִ໋☕️✧˚ ༘ ⋆ </h1>
 
