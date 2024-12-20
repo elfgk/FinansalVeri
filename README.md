@@ -7,10 +7,10 @@ Bu Python uygulaması, kullanıcının belirlediği hisse senedi sembolü ve tar
 ### Gereksinimler
 Bu projeyi çalıştırabilmek için aşağıdaki kütüphanelerin kurulu olması gerekmektedir:
 
--pandas
--yfinance
--streamlit
--xlsxwriter
+* pandas
+* yfinance
+* streamlit
+* xlsxwriter
 
 
 ### Kurulum ve Çalıştırma
